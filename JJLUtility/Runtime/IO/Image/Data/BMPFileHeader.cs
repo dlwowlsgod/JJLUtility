@@ -21,7 +21,7 @@
         public const ushort Type = 0x4D42;
 
         /// <summary>
-        /// Specifies the size, in bytes, of the BMP (Bitmap) file header.
+        /// Specifies the size of the BMP (Bitmap) file.
         /// </summary>
         /// <remarks>
         /// This field indicates the total size of the BMP file header structure. It is a critical
